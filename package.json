@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "@babel/preset-typescript": "^7.16.7",
+    "babel-jest": "^27.4.5",
+    "husky": "^7.0.4",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2"
+  },
+  "packageManager": "yarn@3.1.1"
+}

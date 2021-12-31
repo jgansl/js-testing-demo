@@ -1,0 +1,1 @@
+npm set-script prepare "husky install" - 
